@@ -1,0 +1,16 @@
+﻿*{margin:0;padding:0}
+a,a:visited{text-decoration:none;color:#000;}
+
+.index_foot {width:100%;height:auto;clear:both;padding-bottom:15px;background:#eee;background-repeat:repeat;bottom:0;left:0;right:0;}
+
+.index_about {margin:0px auto 15px auto;height:50px;line-height:60px;}
+.index_about p {width:1024px;text-align:center;margin:0 auto;padding-top:10px}
+.index_about p a {line-height:30px;color:#4F4F4F;font-size:16px;font-family:"Microsoft YaHei";}
+.index_about p a:hover {color:#FF0000;}
+.index_about p span {color:#4F4F4F;margin:0 10px;}
+
+.index_copyright {clear:both;line-height:30px;overflow:hidden;color:#4F4F4F;text-align:center;font-size:14px;line-height:25px;}
+
+.foot_img {width:100%;margin:0 auto;text-align:center;margin-top:10px;}
+.foot_img a {display:inline-block;color:#4F4F4F;width:80px;font-size:12px;line-height:15px;height:28px;padding:5px 0 5px 40px;border:1px solid #999999;position:relative;margin:0 10px;}
+.foot_img a img {position:absolute;top:0;left:0;width:40px;height:38px;}
